@@ -25,6 +25,8 @@ But the given the accuracy level of Training Data and although it is a bit slowe
 But I must admit even KNN algorithm is pretty good start.
 
 Finally performed cross validation with grid search to find the best estimator for Decision Tree. It turns out the max_depth=5 yields best result.
+ 
  DecisionTreeClassifier(criterion='entropy', max_depth=5, min_samples_leaf=50,
                        random_state=42)
+                       
 Which again comes closer to knn.
