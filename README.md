@@ -16,6 +16,8 @@ Build a baseline model.
 
 baseline model
 
+<img width="615" alt="image (21)" src="https://github.com/marrisp/md17_bank/assets/153134781/5ec210cb-8a32-47c1-8394-c722c7831d47">
+
 SVM Model is the slowest for training the data.
 
 But the given the accuracy level of Training Data and although it is a bit slower than KNN the inclination is to use Decision Tree.
